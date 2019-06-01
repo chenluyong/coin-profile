@@ -1,2 +1,5 @@
 # coin-profile
-Blockchain coin story.
+
+Great things may be done by mass effort.
+
+Help enterprises collect coin information.
