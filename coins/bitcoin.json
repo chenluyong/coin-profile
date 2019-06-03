@@ -1,12 +1,16 @@
 {
-  "symbol": "BTC",
-  "address": "bitcoin",
-  "overview": "A Peer-to-Peer Electronic Cash System",
-  "website": "https://bitcoin.org/",
-  "whitepaper": "https://bitcoin.org/bitcoin.pdf",
-  "state": "FLOAT",
-  "published_on": "2009-01-03",
-  "links": {
-    "blog": "https://bitcoin.org/en/blog"
-  }
+    "symbol": "BTC",
+    "website": "https://bitcoin.org/",
+    "whitepaper": "https://bitcoin.org/bitcoin.pdf",
+    "address": "bitcoin",
+    "email": "webmaster@gxb.io",
+    "published_on": "2009-01-03",
+    "state": "FLOAT",
+    "overview": {
+        "en": "A Peer-to-Peer Electronic Cash System",
+        "zh": "一个点对点的电子现金系统"
+    },
+    "links": {
+        "blog": "https://bitcoin.org/en/blog",
+    }
 }

@@ -13,10 +13,9 @@
         "telegram": "http://t.me/GXB_China",
         "github": "http://github.com/gxchain",
         "twitter": "http://twitter.com/gongxinbao",
-        "browser": "http://block.gxb.io/",
         "facebook": "http://www.facebook.com/GXChain"
     },
     "initial_price": {
         "USD": "0.1159 USD"
-    }
+    },
 }
