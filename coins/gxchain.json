@@ -1,0 +1,22 @@
+{
+    "symbol": "GXC",
+    "website": "http://www.gxchain.org/",
+    "whitepaper": "http://static.gxb.io/files/GXChain_WhitePaper_v3.0_CN.pdf",
+    "address": "gxchain",
+    "email": "webmaster@gxb.io",
+    "published_on": "2017-06-15",
+    "overview": {
+        "en": "",
+        "zh": "公信宝成立于2016年，是一家以区块链为核心技术的数据科技公司。公信宝为服务于全球数据经济服务，打造可信数据的价值网络，开发了一条名为公信链（GXChain）的底层基础链。旨在提供企业间、个人间、企业与个人之间的数据交易/交换服务，同时为全球用户打造进入区块链世界的入口、支持全世界开发者开发丰富地区块链应用。公信宝基于区块链的分布式特性、密码学等技术手段和通证设计，为数据经济的发展提供了全新的区块链解决思路，引领了数据服务的新变革。"
+    },
+    "links": {
+        "telegram": "http://t.me/GXB_China",
+        "github": "http://github.com/gxchain",
+        "twitter": "http://twitter.com/gongxinbao",
+        "browser": "http://block.gxb.io/",
+        "facebook": "http://www.facebook.com/GXChain"
+    },
+    "initial_price": {
+        "USD": "0.1159 USD"
+    }
+}
